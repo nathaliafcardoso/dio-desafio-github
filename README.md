@@ -1,2 +1,2 @@
-# dio-desagio-github
+# dio-desafio-github
 desafio bootcamp everis
