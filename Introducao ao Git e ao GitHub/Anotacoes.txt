@@ -2,3 +2,5 @@ Link para downloads
 https://git-scm.com/downloads
 
 O git Bash é um terminal extendido para otimizar o uso do Git.
+
+git  add . ou git add -A (enviar todos os arquivos para o controle de versao)
